@@ -13,7 +13,7 @@ This project demonstrates the development of an AI-powered security tool using A
 
 ## Workflow Diagram
 Here's a visual representation of the threat detection workflow:
-
+https://github.com/molawal2/Azure-EntraID-AI-threat-detector/blob/AI-2.PNG/azure%20project%201.PNG
 
 
 
