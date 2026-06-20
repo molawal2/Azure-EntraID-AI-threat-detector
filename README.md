@@ -23,7 +23,7 @@ Here's a visual representation of the threat detection workflow:
 Sample Generated Output
 An example risk report produced by the AI:
 
-(Add screenshot of your terminal output here)
+azure project 2.PNG
 ## Technologies Used
 
 Azure OpenAI (GPT model for risk classification and explanations)
