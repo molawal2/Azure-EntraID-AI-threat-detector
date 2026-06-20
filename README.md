@@ -1,8 +1,7 @@
-# AI Agent Creation Using n8n – Wayfair Externship
+# Azure/EntraID AI-Powered Threat Detection
 
-## Project Overview
-This project demonstrates the development of a small AI-driven automation using **n8n** as part of my Wayfair AI Externship. The AI agent processes input data, applies decision logic, and generates automated responses based on conditions.
-
+##Project Overview
+This project demonstrates the development of an AI-powered security tool using Azure OpenAI to analyze Microsoft Entra ID (Azure AD) sign-in logs and automatically detect suspicious authentication behavior such as impossible travel and brute-force attempts.
 ---
 
 ## Key Features
@@ -13,26 +12,29 @@ This project demonstrates the development of a small AI-driven automation using 
 ---
 
 ## Workflow Diagram
-Here’s a visual representation of the AI agent workflow:  
-https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/78a6a08624055e77967efd6e9f4dc903ce313e3c/Ai%20agent%20picture%20generator.PNG
+Here's a visual representation of the threat detection workflow:
+
 
 
 
 ---
 
 ## Sample Generated Output
-An example image produced by the AI agent:  
-[[](https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/b9f8768ee1bea8863e1e2c35878d7b83599ac3a0/FLUX.1-schnell)](https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/4bba75bf87c6532372b84c3e32211670f07d0149/AI%20generated%20picture.pdf)
+Sample Generated Output
+An example risk report produced by the AI:
+
+(Add screenshot of your terminal output here)
 ## Technologies Used
-- **n8n** (workflow automation tool)  
-- Code nodes for custom JSON data  
-- IF/conditional logic nodes  
-- Set nodes for dynamic message output  
+
+Azure OpenAI (GPT model for risk classification and explanations)
+Microsoft Entra ID (sign-in log data structure)
+Python (data processing and API integration)
+JSON-based prompt engineering for structured AI output
 
 ---
 
 ## Outcome
-- Created a functioning AI-style automation that reacts dynamically to input data.  
-- Strengthened practical skills in AI automation, workflow orchestration, and no-code/low-code tools used in enterprise environments.
 
+Created a functioning AI-driven identity threat detection tool.
+Strengthened practical skills in cloud security, AI integration, and automated risk analysis used in enterprise SOC environments.
 
