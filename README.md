@@ -22,8 +22,7 @@ https://github.com/molawal2/Azure-EntraID-AI-threat-detector/blob/AI-2.PNG/azure
 ## Sample Generated Output
 Sample Generated Output
 An example risk report produced by the AI:
-[
-[azure project 2.PNG](https://github.com/molawal2/Azure-EntraID-AI-threat-detector/tree/AI-2.PNG)](https://github.com/molawal2/Azure-EntraID-AI-threat-detector/blob/AI-2.PNG/azure%20project%202.PNG)
+https://github.com/molawal2/Azure-EntraID-AI-threat-detector/blob/AI-2.PNG/azure%20project%201.PNG
 ## Technologies Used
 
 Azure OpenAI (GPT model for risk classification and explanations)
