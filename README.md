@@ -1,5 +1,6 @@
 # Azure/EntraID AI-Powered Threat Detection
 
+
 Project Overview
 This project demonstrates the development of an AI-powered security tool using Azure OpenAI to analyze Microsoft Entra ID (Azure AD) sign-in logs and automatically detect suspicious authentication behavior such as impossible travel and brute-force attempts.
 ---
