@@ -23,7 +23,7 @@ Here's a visual representation of the threat detection workflow:
 Sample Generated Output
 An example risk report produced by the AI:
 
-azure project 2.PNG
+[azure project 2.PNG](https://github.com/molawal2/Azure-EntraID-AI-threat-detector/tree/AI-2.PNG)
 ## Technologies Used
 
 Azure OpenAI (GPT model for risk classification and explanations)
